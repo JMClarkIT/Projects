@@ -1,2 +1,2 @@
 # Smart Array
-
+This project implements smart arrays (arrays that expand automatically whenever they get too full). This is an immensely powerful and awesome data structure, and it will ameliorate several problems we often encounter with arrays in C. By completing this program, I gained advanced experience working with dynamic memory management and structs in C. I also learned to manage programs that use multiple source files. In the end, I ended up creating an extremely useful data structure that I can reuse in the future.
