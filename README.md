@@ -1,4 +1,2 @@
-# FirstRepo
-First
-This is a test
-Second change
+# A collection of projects over the years
+
