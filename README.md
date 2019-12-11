@@ -1,2 +1,2 @@
-# A collection of projects over the years
+# A Collection of Projects
 
