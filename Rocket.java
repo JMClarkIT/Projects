@@ -12,10 +12,10 @@ import java.lang.Math;
 
 public class Rocket extends PolyBlob implements BlobAction, BlobProximity {
     
-    private final int[] x = \{4,0 , 9, 0\}; 
-    private final int[] y = \{0, 7, 0, -7\};
-    private final int[] xp = \{4,0 , 9, 0\};
-    private final int[] yp = \{0, 7, 0, -7\};
+    private final int[] x = {4,0 , 9, 0}; 
+    private final int[] y = {0, 7, 0, -7};
+    private final int[] xp = {4,0 , 9, 0};
+    private final int[] yp = {0, 7, 0, -7};
     private double angle = 0.0;
     private final double delta = 0.15;
     private final double speed = 5.0;
