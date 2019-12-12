@@ -1,0 +1,8 @@
+spin
+- all (1)
+- spin (2)
+- straw (1)
+spindle
+(EMPTY)
+nikstlitslepmur
+(INVALID STRING)
