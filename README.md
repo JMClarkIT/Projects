@@ -1,2 +1,2 @@
-# Asteroid
+# Asteroid (Java)
 I completed this program using inheritance to develop an Asteroid class that satisfies certain requirements. I also developed a separate AsteroidField test driver class to create a field of asteroids. The test driver used the "BlobZX.jar" external JAR file to display the asteroid field in a dynamic simulation context. When the asteroids move offscreen, they reappear near the opposite corners as described for the "flow" mode.
